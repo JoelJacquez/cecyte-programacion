@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Tarea | Clase Programación 1 CECyTE]]></title>
-  <link href="http://joeljacquez.github.io/cecyte-programacion/topics/tarea/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Tareas | Clase Programación 1 CECyTE]]></title>
+  <link href="http://joeljacquez.github.io/cecyte-programacion/topics/tareas/atom.xml" rel="self"/>
   <link href="http://joeljacquez.github.io/cecyte-programacion/"/>
-  <updated>2018-03-10T09:59:21-07:00</updated>
+  <updated>2018-03-10T12:23:30-07:00</updated>
   <id>http://joeljacquez.github.io/cecyte-programacion/</id>
   <author>
     <name><![CDATA[Joel Jacquez]]></name>
@@ -27,7 +27,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-6/"/>
     <updated>2018-03-09T18:14:25-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-6</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Palabras reservadas en JAVA</p>
 ]]></content>
   </entry>
   
@@ -36,7 +36,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-5/"/>
     <updated>2018-03-09T18:14:25-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-5</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Ensayo de la pelicula Pirates of Silicon Valley</p>
 ]]></content>
   </entry>
   
@@ -45,7 +45,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-4/"/>
     <updated>2018-03-09T18:14:24-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-4</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Temas de exposición</p>
 ]]></content>
   </entry>
   
@@ -54,7 +54,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-3/"/>
     <updated>2018-03-09T18:14:23-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-3</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Calcular la suma de números pares del 0 al 100</p>
 ]]></content>
   </entry>
   

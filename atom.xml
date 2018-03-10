@@ -4,7 +4,7 @@
   <title><![CDATA[Clase Programación 1 CECyTE]]></title>
   <link href="http://joeljacquez.github.io/cecyte-programacion/atom.xml" rel="self"/>
   <link href="http://joeljacquez.github.io/cecyte-programacion/"/>
-  <updated>2018-03-10T09:59:21-07:00</updated>
+  <updated>2018-03-10T12:23:30-07:00</updated>
   <id>http://joeljacquez.github.io/cecyte-programacion/</id>
   <author>
     <name><![CDATA[Joel Jacquez]]></name>
@@ -18,7 +18,15 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-8/"/>
     <updated>2018-03-09T18:14:26-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-8</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Crear un programa tipo calculadora que permita ingresar dos números y una letra la cual indicará la operación a realizar de acuerdo al siguiente listado</p>
+
+<ul>
+<li><strong>S</strong>: para suma</li>
+<li><strong>R</strong>: para resta</li>
+<li><strong>M</strong>: para multiplicación</li>
+<li><strong>D</strong>: para división</li>
+</ul>
+
 ]]></content>
   </entry>
   
@@ -36,7 +44,37 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-7/"/>
     <updated>2018-03-09T18:14:25-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-7</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>En una Universidad se ha establecido los siguientes puntajes de ingreso a sus respectivas facultades:</p>
+
+<table>
+<thead>
+<tr>
+<th>Facultad </th>
+<th> Puntaje Mínimo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sistemas </td>
+<td> 100</td>
+</tr>
+<tr>
+<td>Electrónica </td>
+<td> 90</td>
+</tr>
+<tr>
+<td>Industrial </td>
+<td> 80</td>
+</tr>
+<tr>
+<td>Administración </td>
+<td> 70</td>
+</tr>
+</tbody>
+</table>
+
+
+<p>De acuerdo al puntaje obtenido por un postulante determinar la facultad a la cual ingresó o dar un mensaje correspondiente para el caso de que no ingrese.</p>
 ]]></content>
   </entry>
   
@@ -45,7 +83,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-6/"/>
     <updated>2018-03-09T18:14:25-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-6</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Palabras reservadas en JAVA</p>
 ]]></content>
   </entry>
   
@@ -54,7 +92,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-5/"/>
     <updated>2018-03-09T18:14:25-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-5</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Ensayo de la pelicula Pirates of Silicon Valley</p>
 ]]></content>
   </entry>
   
@@ -63,7 +101,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-6/"/>
     <updated>2018-03-09T18:14:24-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-6</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Leer la calificación de 30 alumnos y calcular su promedio</p>
 ]]></content>
   </entry>
   
@@ -72,7 +110,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-5/"/>
     <updated>2018-03-09T18:14:24-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-5</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Sumar los números impares del 0 al 1000</p>
 ]]></content>
   </entry>
   
@@ -81,7 +119,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-4/"/>
     <updated>2018-03-09T18:14:24-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-4</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Temas de exposición</p>
 ]]></content>
   </entry>
   
@@ -90,7 +128,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-4/"/>
     <updated>2018-03-09T18:14:23-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-4</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Compañia de viajes</p>
 ]]></content>
   </entry>
   
@@ -99,7 +137,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-3/"/>
     <updated>2018-03-09T18:14:23-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-3</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Calcular la suma de números pares del 0 al 100</p>
 ]]></content>
   </entry>
   
@@ -108,7 +146,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-2/"/>
     <updated>2018-03-09T18:14:23-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-2</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Determinar el número de años, meses, días</p>
 ]]></content>
   </entry>
   
@@ -117,7 +155,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-3/"/>
     <updated>2018-03-09T18:14:22-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-3</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Determinar la calificación de un alumno con validación</p>
 ]]></content>
   </entry>
   
@@ -126,7 +164,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-2/"/>
     <updated>2018-03-09T18:14:22-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-2</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Determinar la calificación de un alumno</p>
 ]]></content>
   </entry>
   
@@ -135,7 +173,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-1/"/>
     <updated>2018-03-09T18:14:22-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-1</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Mayor de 3 números</p>
 ]]></content>
   </entry>
   
@@ -144,7 +182,7 @@
     <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-1/"/>
     <updated>2018-03-09T18:14:21-07:00</updated>
     <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-1</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Tipos de datos de programación, digrama de flujo</p>
 ]]></content>
   </entry>
   
