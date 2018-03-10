@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Tarea | Clase Programación 1 CECyTE]]></title>
+  <link href="http://joeljacquez.github.io/cecyte-programacion/topics/tarea/atom.xml" rel="self"/>
+  <link href="http://joeljacquez.github.io/cecyte-programacion/"/>
+  <updated>2018-03-09T18:35:24-07:00</updated>
+  <id>http://joeljacquez.github.io/cecyte-programacion/</id>
+  <author>
+    <name><![CDATA[Joel Jacquez]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[T-7]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-7/"/>
+    <updated>2018-03-09T18:14:26-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-7</id>
+    <content type="html"><![CDATA[<p>Desarrollar un algoritmo para encontrar la suma de los números pares e impares comprendidos entre 1 y <strong>Num</strong>. Donde el valor de <strong>Num</strong> es un número proporcionado por el usuario.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[T-6]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-6/"/>
+    <updated>2018-03-09T18:14:25-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-6</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[T-5]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-5/"/>
+    <updated>2018-03-09T18:14:25-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-5</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[T-4]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-4/"/>
+    <updated>2018-03-09T18:14:24-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-4</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[T-3]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-3/"/>
+    <updated>2018-03-09T18:14:23-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

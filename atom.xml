@@ -4,13 +4,148 @@
   <title><![CDATA[Clase Programación 1 CECyTE]]></title>
   <link href="http://joeljacquez.github.io/cecyte-programacion/atom.xml" rel="self"/>
   <link href="http://joeljacquez.github.io/cecyte-programacion/"/>
-  <updated>2018-03-09T18:01:21-07:00</updated>
+  <updated>2018-03-09T18:35:24-07:00</updated>
   <id>http://joeljacquez.github.io/cecyte-programacion/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Joel Jacquez]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[TC-8]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-8/"/>
+    <updated>2018-03-09T18:14:26-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-8</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[T-7]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-7/"/>
+    <updated>2018-03-09T18:14:26-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-7</id>
+    <content type="html"><![CDATA[<p>Desarrollar un algoritmo para encontrar la suma de los números pares e impares comprendidos entre 1 y <strong>Num</strong>. Donde el valor de <strong>Num</strong> es un número proporcionado por el usuario.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TC-7]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-7/"/>
+    <updated>2018-03-09T18:14:25-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-7</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[T-6]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-6/"/>
+    <updated>2018-03-09T18:14:25-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-6</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[T-5]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-5/"/>
+    <updated>2018-03-09T18:14:25-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-5</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TC-6]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-6/"/>
+    <updated>2018-03-09T18:14:24-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-6</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TC-5]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-5/"/>
+    <updated>2018-03-09T18:14:24-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-5</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[T-4]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-4/"/>
+    <updated>2018-03-09T18:14:24-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-4</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TC-4]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-4/"/>
+    <updated>2018-03-09T18:14:23-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-4</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[T-3]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-3/"/>
+    <updated>2018-03-09T18:14:23-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[T-2]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-2/"/>
+    <updated>2018-03-09T18:14:23-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TC-3]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-3/"/>
+    <updated>2018-03-09T18:14:22-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TC-2]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-2/"/>
+    <updated>2018-03-09T18:14:22-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TC-1]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-1/"/>
+    <updated>2018-03-09T18:14:22-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/tc-1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[T-1]]></title>
+    <link href="http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-1/"/>
+    <updated>2018-03-09T18:14:21-07:00</updated>
+    <id>http://joeljacquez.github.io/cecyte-programacion/blog/2018/03/09/t-1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
